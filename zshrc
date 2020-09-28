@@ -42,3 +42,7 @@ export GOPATH=$HOME/Code/go
 
 # Add user/bin
 export PATH="$PATH:$HOME/bin"
+
+# Add android studio
+export ANDROID_SDK="/Users/christopher/Library/Android/sdk"
+export PATH="$PATH:/Users/christopher/Library/Android/sdk/platform-tools"
